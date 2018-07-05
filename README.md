@@ -1,5 +1,15 @@
 # machinelearningexam
 
+The exam i submited for my machinelearning course, graded A
+pip install -r requirements.txt to install dependencies
+
+>Run main.py, 
+
+>write in "Flaveria.csv" to load the training set we were given
+
+>write in "TESTdata.csv"  to load in test data the lecturer used to grade us
+
+
 
 <h2> Message posted from lecturer with all scores found during the exam </h2>
 
